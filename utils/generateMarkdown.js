@@ -79,15 +79,15 @@ function generateMarkdown(data) {
   # ${data.projectName}
 
   ## Table of Contents
-  - [Images](####Images)
-  - [License's](####License's)
-  - [Desciption](####Desciption)
-  - [Install-Instructions](####Install-Instructions)
-  - [Contribution-Guidelines](####Contribution-Guidelines)
-  - [Terminal-Command](####Terminal-Command)
-  - [Testing-Instructions](####Testing-Instructions)  
-  - [Contact](####Contact)
-  - [GIT](####GIT)
+  - [Images](#Images)
+  - [License's](#License's)
+  - [Desciption](#Desciption)
+  - [Install-Instructions](#Install-Instructions)
+  - [Contribution-Guidelines](#Contribution-Guidelines)
+  - [Terminal-Command](#Terminal-Command)
+  - [Testing-Instructions](#Testing-Instructions)  
+  - [Contact](#Contact)
+  - [GIT](#GIT)
 
   ![alt text](assets/screenshotProject1.png)
 
